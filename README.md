@@ -1,4 +1,4 @@
-[switch to german version]()
+[switch to german version](GermanREADME.md)
 # about me
 
 There is nothing to see here yet
