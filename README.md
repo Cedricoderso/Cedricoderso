@@ -4,7 +4,7 @@
 
 # libraries
 
-[`Linux Terminal apt`](/linux/terminal/apt)
+[`Linux Terminal apt`](/libraries/linux-terminal-apt)
 
 # about me
 
