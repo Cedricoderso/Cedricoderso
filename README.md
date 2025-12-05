@@ -1,4 +1,5 @@
-[( :de: switch to german version :de: )](GermanREADME.md)
+# projects
+
 # about me
 
 There is nothing to see here yet
