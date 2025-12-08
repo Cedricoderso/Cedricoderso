@@ -4,7 +4,7 @@
 
 # libraries
 
-[`cool terminal based packages`](Cedricoderso/linux-terminal-packages)
+[`cool terminal based packages`](linux-terminal-packages)
 
 # about me
 
