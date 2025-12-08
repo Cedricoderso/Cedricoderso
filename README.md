@@ -4,7 +4,7 @@
 
 # libraries
 
-[`Linux Terminal apt`](/libraries/linux-terminal-apt)
+[`cool terminal based packages`](/libraries/linux-terminal-packages)
 
 # about me
 
